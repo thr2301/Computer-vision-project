@@ -44,5 +44,4 @@ pip install numpy matplotlib scikit-learn scipy torch tqdm
 └── README.md          # Project documentation
 ```
 
-## 📜 License
-This repository is for **educational purposes** only.
+
