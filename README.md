@@ -1,5 +1,3 @@
-# ΜΥΕ046 – Computational Vision (Winter 2024–2025)
-### Assignment Notebook
 
 ## 📖 Overview
 This repository contains the Jupyter Notebook **`assignment.ipynb`**, which is part of the course **ΜΥΕ046 – Computational Vision** (Winter Semester 2024–2025).  
