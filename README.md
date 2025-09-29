@@ -31,11 +31,6 @@ pip install numpy matplotlib scikit-learn scipy torch tqdm
    - **Code cells**: Implement solutions for each task.
    - **Markdown cells**: Answer theoretical questions and provide explanations.
 
-## 📌 Notes
-- This assignment is **individual** — collaboration or use of AI-generated code is prohibited (per course rules).
-- Make sure your code is **well-documented** and clear.
-- Submit before the deadline: **Tuesday, January 14, 2025, 23:59**.
-
 ## 📂 Repository Structure
 ```
 ├── assignment.ipynb   # Main Jupyter Notebook (tasks & solutions)
